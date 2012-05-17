@@ -27,5 +27,5 @@ setup(
     url = 'http://github.com/jamesc/Fudge-Python',
     author = 'James Casey',
     author_email =  'jamesc.000@gmail.com',
-    packages = ['tests','fudge'],
+    packages = ['tests','fudge','fudge.utils'],
 )
